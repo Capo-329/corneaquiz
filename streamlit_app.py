@@ -49,7 +49,7 @@ st.markdown("""
 # st.image("logo-MEb.png", width=60) 
 st.markdown("""
 <div class="titolone">
-    <h1 style="color: #fff">Ophthalmology Clinical Quiz</h1>
+    <h1 style="color: #fff">Cornea Ophthalmology Clinical Quiz</h1>
 </div>
 """, unsafe_allow_html=True)
 
