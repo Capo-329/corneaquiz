@@ -46,7 +46,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # App title
-st.image("logo-MEb.png", width=60) 
+# st.image("logo-MEb.png", width=60) 
 st.markdown("""
 <div class="titolone">
     <h1 style="color: #fff">Ophthalmology Clinical Quiz</h1>
